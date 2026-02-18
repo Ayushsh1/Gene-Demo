@@ -1,0 +1,45 @@
+Introduction to Python
+
+Python is a high-level, interpreted, and general-purpose programming
+language known for its simplicity and readability. It was created by
+Guido van Rossum and first released in 1991. Python is widely used in
+fields such as web development, data science, artificial intelligence,
+automation, and software development.
+
+Features of Python: - Easy to learn and use - Interpreted language -
+Object-oriented - Large standard library - Cross-platform support - Open
+source
+
+Basic Syntax: Python uses indentation instead of braces to define code
+blocks.
+
+Example: print(“Hello, World!”)
+
+Variables: Variables store data values.
+
+Example: x = 10 name = “Ayush”
+
+Data Types: - int (integer) - float (decimal) - str (string) - bool
+(True/False) - list, tuple, set, dictionary
+
+Example: a = 5 b = 3.14 c = “Python”
+
+Control Statements: Python supports conditional and looping statements.
+
+Example: if x > 0: print(“Positive”)
+
+for i in range(5): print(i)
+
+Functions: Functions are reusable blocks of code.
+
+Example: def add(a, b): return a + b
+
+Modules: Python programs can be organized into modules and packages.
+
+Applications of Python: - Web development (Django, Flask) - Data science
+(NumPy, Pandas) - Machine learning (Scikit-learn, TensorFlow) -
+Automation and scripting - Game development
+
+Conclusion: Python is a powerful and versatile programming language
+suitable for beginners and professionals. Its simple syntax and vast
+ecosystem make it one of the most popular programming languages today.

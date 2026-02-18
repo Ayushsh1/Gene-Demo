@@ -1,0 +1,16 @@
+# Virtual environment
+new_env/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Temporary files
+tmpclaude-*

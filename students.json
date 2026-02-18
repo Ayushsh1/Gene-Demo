@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Aarav Sharma",
+        "age": 20,
+        "gender": "Male",
+        "course": "CSE",
+        "year": 3,
+        "cgpa": 8.5
+    },
+    {
+        "id": 2,
+        "name": "Diya Patel",
+        "age": 19,
+        "gender": "Female",
+        "course": "IT",
+        "year": 2,
+        "cgpa": 8.9
+    },
+    {
+        "id": 3,
+        "name": "Rohan Verma",
+        "age": 21,
+        "gender": "Male",
+        "course": "ECE",
+        "year": 4,
+        "cgpa": 7.8
+    },
+    {
+        "id": 4,
+        "name": "Sneha Kulkarni",
+        "age": 20,
+        "gender": "Female",
+        "course": "CSE",
+        "year": 3,
+        "cgpa": 9.1
+    },
+    {
+        "id": 5,
+        "name": "Arjun Singh",
+        "age": 22,
+        "gender": "Male",
+        "course": "ME",
+        "year": 4,
+        "cgpa": 7.5
+    },
+    {
+        "id": 6,
+        "name": "Priya Nair",
+        "age": 19,
+        "gender": "Female",
+        "course": "EE",
+        "year": 2,
+        "cgpa": 8.2
+    },
+    {
+        "id": 7,
+        "name": "Kunal Mehta",
+        "age": 21,
+        "gender": "Male",
+        "course": "CSE",
+        "year": 4,
+        "cgpa": 8.7
+    },
+    {
+        "id": 8,
+        "name": "Ananya Desai",
+        "age": 20,
+        "gender": "Female",
+        "course": "IT",
+        "year": 3,
+        "cgpa": 9.0
+    },
+    {
+        "id": 9,
+        "name": "Rahul Gupta",
+        "age": 22,
+        "gender": "Male",
+        "course": "CE",
+        "year": 4,
+        "cgpa": 7.9
+    },
+    {
+        "id": 10,
+        "name": "Meera Joshi",
+        "age": 19,
+        "gender": "Female",
+        "course": "CSE",
+        "year": 2,
+        "cgpa": 8.8
+    }
+]
